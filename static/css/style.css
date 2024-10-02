@@ -1,0 +1,14 @@
+h1 {
+  background-color: black;
+  text-emphasis-color: pink;
+  color: wheat;
+  border: 2px #eee solid;
+
+  text-align: center;
+  padding: 10px;
+}
+
+a {
+  background-color: navy;
+  color: wheat;
+}
